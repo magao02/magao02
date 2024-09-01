@@ -26,8 +26,8 @@
   </span>
 </h2>
 
-- 🔭 I’m currently working on React, React Native and vuejs
-- 🌱 I’m currently learning Flask and nodejs
+- 🔭 I’m currently working on React, Next, nodejs, java
+- 🌱 I’m currently learning Devops
 
 <div align="center">
   <a href="https://github.com/magao02">
